@@ -8,7 +8,7 @@ Most of the components are readily available. Chips not available from Mouser or
 
 [Schematic](https://github.com/InsaneDruid/Low-Speed-Graphik/blob/main/lsg_schematics.pdf "Schematic")  
 
-[Bill of Materials](https://htmlpreview.github.io/?https://github.com/InsaneDruid/Low-Speed-Graphik/blob/main/lsg_bom.html "Bill of Materials")
+[Bill of Materials](https://htmlpreview.github.io/?https://github.com/InsaneDruid/Low-Speed-Graphik/blob/main/bom/lsg_bom.html "Bill of Materials")
 
 ## The Firmware
 There are several ways to get both the programmed 2332A	ROM and TBP18s030 PROM	
