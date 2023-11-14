@@ -28,3 +28,4 @@ fp-info-cache
 *.csv
 # View Settings
 *.kicad_prl
+desktop.ini
