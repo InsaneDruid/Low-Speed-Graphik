@@ -794,6 +794,10 @@
     (effects (font (size 5 5)) (justify left bottom))
     (uuid 146ea1d5-25e1-4dc3-b19e-ddf9cf276490)
   )
+  (text "PAGE OK\nR28 = R20 in schematics" (at 59.69 43.18 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b1cefd3f-ed33-48c7-989a-854de46425ce)
+  )
 
   (label "PEN_CONTACT" (at 87.63 69.85 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
