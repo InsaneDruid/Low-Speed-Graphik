@@ -9,8 +9,8 @@
     (date "2022-03-13")
     (rev "V001")
     (comment 1 "reverse-engineered in 2022")
-    (comment 2 "creativecommons.org/licenses/by/4.0/")
-    (comment 3 "License: CC BY 4.0")
+    (comment 2 "creativecommons.org/licenses/by-sa/4.0/")
+    (comment 3 "License: CC BY-SA 4.0")
     (comment 4 "Author: InsaneDruid")
   )
 
@@ -6471,7 +6471,7 @@
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 167.64 237.49 0) (mirror y) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid 22beb8db-867d-456f-9e02-593d239d0c22)
-    (property "Reference" "JP3" (at 167.64 240.03 0)
+    (property "Reference" "JPM1" (at 167.64 240.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Jumper_2_Open" (at 167.64 233.68 0)
@@ -6488,7 +6488,7 @@
     (instances
       (project "lsg"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/25c73cf5-2daa-4b48-a85c-af0d7b46ac70"
-          (reference "JP3") (unit 1)
+          (reference "JPM1") (unit 1)
         )
       )
     )
@@ -6497,7 +6497,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x25") (at 97.79 214.63 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23d238e2-65be-4fe0-a6cf-49ee4e653640)
-    (property "Reference" "JQ3" (at 97.79 180.34 0)
+    (property "Reference" "J3a1" (at 97.79 180.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x25" (at 95.25 213.3601 0)
@@ -6537,7 +6537,7 @@
     (instances
       (project "lsg"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/25c73cf5-2daa-4b48-a85c-af0d7b46ac70"
-          (reference "JQ3") (unit 1)
+          (reference "J3a1") (unit 1)
         )
       )
     )
@@ -7033,7 +7033,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x25") (at 97.79 138.43 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 86a110d9-90ef-4fee-bb86-8eea44a21f79)
-    (property "Reference" "JQ4" (at 97.79 104.14 0)
+    (property "Reference" "J4a1" (at 97.79 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x25" (at 95.25 137.1601 0)
@@ -7073,7 +7073,7 @@
     (instances
       (project "lsg"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/25c73cf5-2daa-4b48-a85c-af0d7b46ac70"
-          (reference "JQ4") (unit 1)
+          (reference "J4a1") (unit 1)
         )
       )
     )
